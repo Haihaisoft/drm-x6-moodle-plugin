@@ -8,7 +8,7 @@ Código fuente, ejemplos y guías para integrar vídeo protegido con **Moodle**.
 
 ## Empieza aquí
 
-Versión **20260925.7**, preliminar pública. Requisitos: **Moodle; server requirements in the guide**. Las licencias de los componentes y los avisos de terceros se conservan en sus carpetas de origen.
+Versión **20260925.7**, preliminar pública. Requisitos: **Moodle; consulta los requisitos del servidor en la guía**. Las licencias de los componentes y los avisos de terceros se conservan en sus carpetas de origen.
 
 - Empieza por [`plugins/moodle/mod_drmx/README.md`](plugins/moodle/mod_drmx/README.md). Para instrucciones detalladas en español utiliza el enlace a la documentación.
 - Archivos y puntos de extensión que debes configurar: **`Site administration → Plugins; DRM-X activity → Content ID`**.
