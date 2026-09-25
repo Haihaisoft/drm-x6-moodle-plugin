@@ -8,7 +8,7 @@
 
 ## 从这里开始
 
-发布版本 **20260925.7**，公开预览版。环境要求：**Moodle; server requirements in the guide**。各组件许可证及第三方声明保留在相应源码目录内。
+发布版本 **20260925.7**，公开预览版。环境要求：**Moodle; 服务器要求请参阅指南**。各组件许可证及第三方声明保留在相应源码目录内。
 
 - 首先阅读 [`plugins/moodle/mod_drmx/README.md`](plugins/moodle/mod_drmx/README.md)。详细的中文操作步骤请使用上方文档链接。
 - 需要配置的文件和扩展点：**`Site administration → Plugins; DRM-X activity → Content ID`**。
